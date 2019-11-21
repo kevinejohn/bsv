@@ -48,6 +48,7 @@
     "elliptic": "6.4.1",
     "hash.js": "^1.1.7",
     "inherits": "2.0.3",
+    "react-native-randombytes": "^3.5.3",
     "unorm": "1.4.1"
   },
   "devDependencies": {
